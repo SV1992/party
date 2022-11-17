@@ -1,0 +1,56 @@
+.titulo1{
+    background-color: blue;
+    font-size: 2rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Satisfy', cursive;
+}
+.titulo2{
+    font-family: 'Acme', sans-serif;
+}
+.titulo3{
+    font-family: 'Mukta', sans-serif;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: black;
+    color: white;
+}
+body{
+    background-image: url(https://media.tenor.com/HJvqN2i4Zs4AAAAj/milk-and-mocha-cute.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+tbody{
+    background-color: rgb(181, 182, 194);
+}
+thead{
+    background-color: rgb(181, 182, 194);
+}
+.body1{
+    background-image: url(/Musica.jpg) ;
+    justify-content: center;
+    background-color: rgb(31, 77, 61);
+}
+thead{
+    color: rgb(4, 134, 32);
+}
+.table td{
+    border: 2px solid;
+    text-align: center;
+}
+.table tr{
+    background-color: rgb(31, 77, 61);
+}
+table td:hover{
+    background-color: darkblue;
+    color: brown;
+}
+caption{
+    font-family: 'Acme' , sans-serif;
+    font-size: 26px;
+}
